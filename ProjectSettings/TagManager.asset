@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags: []
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - players
+  - farm
+  - lights
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: realBack
+    uniqueID: 2961834843
+    locked: 0
+  - name: farm
+    uniqueID: 4033631049
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: background
+    uniqueID: 2641177497
+    locked: 0
+  - name: players
+    uniqueID: 1957431237
+    locked: 0
+  - name: lights
+    uniqueID: 1957431237
+    locked: 0
+  - name: sleep
+    uniqueID: 1957431237
+    locked: 0
+  - name: food
+    uniqueID: 3349797085
+    locked: 0
